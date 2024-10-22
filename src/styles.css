@@ -1,1 +1,47 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #007BFF; /* Tata blue */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .hero {
+    background: #4CAF50; /* Green for sustainability */
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .features {
+    padding: 50px 20px;
+    background: #f9f9f9;
+  }
+  
+  .feature {
+    margin: 20px 0;
+  }
+  
+  footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+  }
+  
